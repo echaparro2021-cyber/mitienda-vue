@@ -21,7 +21,7 @@
 </template>
 
 <script>
-
+// Vista Seller 
 import { ref, onMounted } from 'vue'; 
 import { getSellers } from '../services/seller';
 import Swal from 'sweetalert2'
